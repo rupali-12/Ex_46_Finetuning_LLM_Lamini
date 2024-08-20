@@ -2,7 +2,7 @@
 
 # Github Link
 
-[GITHUB_LINK]()
+[GITHUB_LINK](https://github.com/rupali-12/Ex_46_Finetuning_LLM_Lamini)
 
 # Deployed Link
 
