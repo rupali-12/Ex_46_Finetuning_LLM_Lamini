@@ -1,4 +1,4 @@
-# Nvidia NIM
+# End To End finetuning LLM Models With Lamini Platform1 lecture
 
 # Github Link
 
